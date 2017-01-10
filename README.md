@@ -5,7 +5,7 @@ The dataset and code here form the background of [this article](http://www.theat
 Requires packages data.table, plyr for data manipulation, ggplot2, ggrepel, rgeos, and sp for visualization.
 
 # Data
-- master.csv is the student roster of Tsinghua, which has consistently ranked as one of China's top universities
+- master.csv is the anonymized student roster of Tsinghua, which is arguably the most prestigious university in China
 - province.csv has data on the number college entrance exam takers by year and province
 - univ211.csv has data on the number of "Project 211 Universities," which are those designated as "top institutions" by the Chinese government and receive significant state-level funding
 
