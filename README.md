@@ -11,8 +11,7 @@ Requires packages data.table and plyr for data manipulation, ggplot2, ggrepel, r
 
 # Charts
 The following charts can be reproduced from the code and data supplied.
+![Bubble](charts/bubble_en.png)
 ![Time trend](charts/timetrend_en.png)
 ![Scatter](charts/scatter_en_normalscale.png)
 ![Bar](charts/bar_en.png)
-![Bubble](charts/bubble_en.png)
-![Map](charts/map_en.png)
